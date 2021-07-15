@@ -128,19 +128,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/Lackregular.cafd477e.woff"
   },
   {
-    "revision": "b1fbfa99399657c1447942e96fcdc1e2",
+    "revision": "6672dab78f571adbc7a28bc6ab3fb49b",
     "url": "images/icon-192x192.png"
   },
   {
-    "revision": "764ae5494a635193a526f5cf3c1f5cf0",
+    "revision": "a06234f714b68559b4f96db684de4ec8",
     "url": "images/icon-256x256.png"
   },
   {
-    "revision": "75ffa82d838857489823ead6b7202624",
+    "revision": "abb733b517b15a82606127a7f2522299",
     "url": "images/icon-384x384.png"
   },
   {
-    "revision": "b016e75e12d2e9f48dfd242b86fb64e0",
+    "revision": "93ccbad66e88a68d2a65025808d3f02e",
     "url": "images/icon-512x512.png"
   },
   {
@@ -228,7 +228,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "manifest.json"
   },
   {
-    "revision": "f1a87ccbfb41994784fc88c724d5a0b8",
+    "revision": "46d8ee87d3019286da706a959f633dd9",
     "url": "manifest.webmanifest"
   },
   {
