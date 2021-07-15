@@ -152,7 +152,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/sprite.d1c1c928.svg"
   },
   {
-    "revision": "12320eb0cb17c43c67bd8e32fb9fec64",
+    "revision": "a2610a383060ae01351aa77ca66fb275",
     "url": "index.html"
   },
   {
@@ -226,10 +226,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "56f2cd7635deb6df964af770520c0cc5",
     "url": "manifest.json"
-  },
-  {
-    "revision": "82e4537bbf16debb53dcf56f683c6113",
-    "url": "manifest.webmanifest"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
