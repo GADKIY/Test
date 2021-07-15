@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.322f2a04676ed0e4160ddfe9b36db739.js"
+  "precache-manifest.1b7cae5db60d44b542be12faebc650d2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hsmart"});
